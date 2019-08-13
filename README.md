@@ -1,2 +1,2 @@
 # AML
-Algorithmic Machine Learning
+Algorithmic Machine Learning.
